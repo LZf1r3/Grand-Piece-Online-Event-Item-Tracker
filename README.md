@@ -96,7 +96,7 @@ To back up your progress or move it to another computer, copy that one file.
 ## Running it
 
 ```bash
-python tracker.py
+GPO Event Loot Tracker.py
 ```
 
 You need Python 3 with Tkinter. On Windows and Mac, Tkinter comes with the normal Python installer. On Ubuntu or Debian you may need to install it:
